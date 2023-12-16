@@ -1,0 +1,15 @@
+---
+# you can put your comment here #
+name: Sergei Garanin
+job: QA Engineer
+level: junior
+email: wwwser01@gmail.com
+description: |
+  Junior QA engineer
+
+  Ready for first testing project
+skills: # skills list
+  - Functional testing
+  - bug report
+  - macOS
+  - B1 English level
